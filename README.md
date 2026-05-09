@@ -1,9 +1,4 @@
 # RAAL
-Love that—this is exactly how you turn this into a real system.
-
-Let’s go in the order you listed, starting with the GitHub README.
-
----
 
 RAAL v2_copilot — GitHub README
 
