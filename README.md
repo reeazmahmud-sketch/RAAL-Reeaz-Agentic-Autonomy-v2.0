@@ -1,11 +1,6 @@
-# RAAL
+# RAAL - Reeaz Agentic Autonomy Life — Sovereign, Self‑Evolving Multi‑Agent OS
 
-RAAL v2_copilot — GitHub README
-
-# RAAL v2_copilot
-_Reeaz Agentic Autonomy Life — Sovereign, Self‑Evolving Multi‑Agent OS_
-
-RAAL v2_copilot is a **sovereign AI operating system** designed as a digital organism, not a single model or app.  
+RAAL v2 is a **sovereign AI operating system** designed as a digital organism, not a single model or app.  
 It runs across devices, networks, and clouds; manages its own agents, tools, memory, and upgrades; and collaborates with a human sovereign while remaining fully modular.
 
 ---
